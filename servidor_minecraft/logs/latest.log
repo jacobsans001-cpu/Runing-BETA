@@ -1,0 +1,1682 @@
+[04:55:33] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.4
+[04:55:33] [ForkJoinPool-1-worker-1/WARN]: The mod "takesapillage" contains invalid entries in its mod json:
+- Unsupported root entry "mc-publish" at line 51 column 17
+[04:55:33] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 11
+[04:55:34] [main/WARN]: Warnings were found!
+ - Mod 'Living Things' (livingthings) 1.21.1-2.3.0 recommends any version of patchouli, which is missing!
+	 - You should install any version of patchouli for the optimal experience.
+[04:55:34] [main/INFO]: Loading 320 mods:
+	- accessories 1.1.0-beta.52+1.21.1
+	- advancednetherite 2.3.1-1.21.1
+	- amendments 1.21-2.0.15
+	- ancientstructures 0.1.1
+	- animal_feeding_trough 1.1.2+1.21.1
+	- ante 1.2.1
+	- architectury 13.0.8
+	- armoroftheages 1.5.7
+	- artifacts 13.2.0
+	   |-- com_electronwill_night-config_core 3.8.0
+	   |-- com_electronwill_night-config_toml 3.8.0
+	   \-- expandability 12.0.0
+	- atistructures 1.3.10
+	- azurelib 3.0.39
+	- balm 21.0.56
+	   \-- kuma_api 21.0.7
+	- betteradvancements 0.4.3.21
+	- bettercombat 2.3.1+1.21.1
+	   \-- tiny_config 3.1.0
+	- betterendisland 1.21.1-Fabric-3.1.2
+	   \-- org_reflections_reflections 0.10.2
+	- bettervillage 3.3.1
+	- bosses_of_mass_destruction 1.10.2-1.21.1
+	   \-- multipart_entities 1.7-1.21
+	- c2me 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-base 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-client-uncapvd 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-general-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-notickvd 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-allocs 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-chunkio 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-dfc 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-math 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-scheduling 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-worldgen-general 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-opts-worldgen-vanilla 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunk-serializer 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunk-system 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-rewrites-chunkio 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-server-utils 0.3.0+alpha.0.362+1.21.1
+	   |-- c2me-threading-lighting 0.3.0+alpha.0.362+1.21.1
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.12
+	   |-- mixinsquared 0.2.0-beta.6
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- cardiac 0.5.3.4
+	- cardinal-components 6.1.3
+	   |-- cardinal-components-base 6.1.3
+	   |-- cardinal-components-block 6.1.3
+	   |-- cardinal-components-chunk 6.1.3
+	   |-- cardinal-components-entity 6.1.3
+	   |-- cardinal-components-item 6.1.3
+	   |-- cardinal-components-level 6.1.3
+	   |-- cardinal-components-scoreboard 6.1.3
+	   \-- cardinal-components-world 6.1.3
+	- chefsdelight 1.0.5-fabric-1.21.1
+	   \-- structurized-reborn 1.21.1-01
+	- chunksending 1.21-2.8
+	- chunky 1.4.23
+	- chunkyborder 1.2.18
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.13
+	- comforts 9.0.5+1.21.1
+	   \-- spectrelib 0.17.2+1.21
+	        |-- com_electronwill_night-config_core 3.8.0
+	        \-- com_electronwill_night-config_toml 3.8.0
+	- connectedglass 1.1.14
+	- connectivity 1.21-7.2
+	- coroutil 1.21.1-1.3.8
+	- creativecore 2.13.24
+	   \-- net_neoforged_bus 7.2.0
+	- creeperoverhaul 4.0.6
+	   \-- com_teamresourceful_resourceful-cosmetics-4j 1.0.3
+	- cristellib 3.0.2
+	   \-- blue_endless_jankson 1.2.3
+	- crittersandcompanions 1.21.1-2.3.4
+	   |-- porting_lib_attributes 3.1.0-beta.75+1.21.1
+	   |    |-- porting_lib_core 3.1.0-beta.75+1.21.1
+	   |    \-- porting_lib_gametest 3.1.0-beta.75+1.21.1
+	   \-- porting_lib_entity 3.1.0-beta.75+1.21.1
+	        |-- porting_lib_core 3.1.0-beta.75+1.21.1
+	        |-- porting_lib_gametest 3.1.0-beta.75+1.21.1
+	        \-- porting_lib_mixin_extensions 3.1.0-beta.75+1.21.1
+	- ctov 3.6.1
+	- cupboard 1.21-2.9
+	- dangerous 1.4.3
+	- dawnoftimebuilder 1.6.4
+	- deeperdarker 1.3.3-plus-b
+	   \-- customportalapi 0.0.1-beta67-1.21
+	- diagonalfences 21.1.1
+	- diagonalwalls 21.1.2
+	   \-- diagonalblocks 21.1.2
+	- doubledoors 7.2
+	- dungeons_arise 2.1.68
+	- easymagic 21.1.4
+	- easyshulkerboxes 21.1.3
+	   \-- iteminteractions 21.1.4
+	- ecologics 2.3.3
+	- effortless 3.4.0
+	- emotecraft 2.4.12
+	   \-- bendy-lib 5.1
+	- epicwitchhuts 1.2.0
+	- explorerscompass 1.21.1-2.2.5-fabric
+	- exposure 1.9.13
+	- fabric-api 0.116.8+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.1.0+0bc3503219
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.19+b559734419
+	   |-- fabric-convention-tags-v1 2.1.6+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.2+fa89716719
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.6+5b36e0f719
+	   |-- fabric-data-generation-api-v1 20.2.35+37516cd619
+	   |-- fabric-dimensions-v1 4.0.1+65213ef819
+	   |-- fabric-entity-events-v1 1.8.0+2b27e0a419
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.2.0+3b3cb2e819
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.6.0+0865547519
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.14+8aaf3aca19
+	   |-- fabric-model-loading-api-v1 2.1.0+b4d813fc19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.15+2475392c19
+	   |-- fabric-registry-sync-v0 5.3.1+e3eddc2119
+	   |-- fabric-renderer-api-v1 3.4.1+b4d813fc19
+	   |-- fabric-renderer-indigo 1.7.1+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.69+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.72+df3654b319
+	   |-- fabric-rendering-v1 5.1.0+ab4c25a019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.90+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.3+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabric-language-kotlin 1.13.8+kotlin.2.3.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.3.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.3.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.3.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.3.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.2
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.18.4
+	   \-- mixinextras 0.5.0
+	- fallingtrees 0.13.2
+	- farmersdelight 1.21.1-3.2.2+refabricated
+	   \-- mm 2.3
+	- fastasyncworldsave 1.21-2.6
+	- fastitemframes 21.1.6
+	- ferritecore 7.0.3
+	- fishofthieves 21.1.1.2
+	   \-- mm 2.3
+	- forgeconfigapiport 21.1.6
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- framework 0.13.10
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- furnitureexpanded 1.2
+	- fusion 1.2.12
+	- fzzy_config 0.7.5+1.21
+	   |-- blue_endless_jankson 1.2.3
+	   |-- fabric-permissions-api-v0 0.3.1
+	   \-- net_peanuuutz_tomlkt_tomlkt-jvm 0.3.7
+	- gamingfurniture 0.3.0
+	   \-- special-model-loader 1.3.0
+	- geckolib 4.8.3
+	- glitchcore 2.1.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- guardvillagers 2.1.2-1.21
+	   \-- midnightlib 1.5.7
+	- handcrafted 4.0.3
+	- iceberg 1.3.2
+	- imfast 1.0.2
+	- immersivelanterns 1.0.6
+	- infinitetrading 4.6
+	- itemphysic 1.8.9
+	- items_displayed 1.3
+	- jade 15.10.5+fabric
+	- jamlib 1.3.5+1.21.1
+	   \-- blue_endless_jankson 1.2.3
+	- java 21
+	- jei 19.27.0.340
+	- journeymap 1.21.1-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.18-1.21.1
+	   \-- journeymap-api-fabric 2.0.0-1.21.1-SNAPSHOT
+	- js_furniture_mod 1.0.5
+	- justhammers 21.1.4
+	- libraryferret 4.0.0
+	- lithostitched 1.5.7
+	- livingthings 1.21.1-2.3.0
+	- mca 7.7.5+1.21.1
+	- mcwbridges 3.1.0
+	- mcwfences 1.2.1
+	- mcwfurnitures 3.4.1
+	- mcwwindows 2.4.2
+	- mes 2.0.0
+	- minecraft 1.21.1
+	- mob_drops_recipes_end 2.1.0
+	- mob_drops_recipes_nether 2.1.1
+	- mob_drops_recipes_overworld 2.1.0
+	- mobs_of_mythology 2.2.2
+	- modernfix 5.25.1+mc1.21.1
+	- monolib 2.1.0
+	- moogs_structures 1.1.0-1.21-1.21.1-fabric
+	- moonlight 1.21-2.29.16
+	- mr_better_snowybiome 1-v2.5.1
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_dungeons_andtavernsnetherfortressoverhaul 1-v2.4
+	- mr_dungeons_andtavernsoceanmonumentreplacement 1-v1.2
+	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.1.f
+	- mr_dungeons_andtavernswoodlandmansionreplacement 1-v1.2
+	- mr_epic_structuresvillages 1.2.0
+	- mr_revault 1.2
+	- mr_true_ending 1-v1.1.2d
+	- mr_vb_compat 1.4
+	- mru 1.0.19+LTS+1.21.1+fabric
+	   \-- org_commonmark_commonmark 0.21.0
+	- nemos_inventory_sorting 1.21.1-1.8.2.1
+	- netherportalfix 21.1.3
+	- noisium 2.3.0+mc1.21-1.21.1
+	- nullscape 1.2.14
+	- nyfsspiders 3.0.1
+	   \-- awcapi 1.0.2
+	- octolib 0.6.0.4
+	- owo 0.12.15.4+1.21
+	   |-- io_wispforest_endec 0.1.5.1
+	   |-- io_wispforest_endec_gson 0.1.3.1
+	   |-- io_wispforest_endec_jankson 0.1.3.1
+	   \-- io_wispforest_endec_netty 0.1.2
+	- packetfixer 3.3.1
+	- pandalib 0.5.2
+	- pickupnotifier 21.1.1
+	- pingwheel 1.12.1
+	- placeholder-api 2.4.2+1.21
+	- platform 1.2.11.5
+	- playeranimator 2.0.4+1.21.1
+	- pointblank 1.10.0
+	- polymer-bundled 0.9.19+1.21.1
+	   |-- polymer-autohost 0.9.19+1.21.1
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.9.19+1.21.1
+	   |-- polymer-common 0.9.19+1.21.1
+	   |    \-- packet_tweaker 0.5.6+1.21
+	   |-- polymer-core 0.9.19+1.21.1
+	   |    |-- polymer-networking 0.9.19+1.21.1
+	   |    |    \-- polymer-common 0.9.19+1.21.1
+	   |    |         \-- packet_tweaker 0.5.6+1.21
+	   |    \-- polymer-registry-sync-manipulator 0.9.19+1.21.1
+	   |-- polymer-resource-pack 0.9.19+1.21.1
+	   |    \-- polymer-common 0.9.19+1.21.1
+	   |         \-- packet_tweaker 0.5.6+1.21
+	   \-- polymer-virtual-entity 0.9.19+1.21.1
+	        \-- polymer-common 0.9.19+1.21.1
+	             \-- packet_tweaker 0.5.6+1.21
+	- puzzleslib 21.1.39
+	- quartzelv 2.3.1+1.21.1
+	- quickskin 2.6.0
+	- rch_supplementaries_compat 2.0.0+1.21
+	- realisticbees 4.2
+	- refurbished_furniture 1.0.22
+	- resourcefulconfig 3.0.11
+	- resourcefullib 3.0.12
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
+	- rightclickharvest 4.6.0+1.21.1
+	- rusticdelight 1.5.1
+	- sereneseasons 10.1.0.3
+	   \-- net_jodah_typetools 0.6.3
+	- servercore 1.5.10+1.21.1
+	   |-- fabric-permissions-api-v0 0.3.1
+	   |-- org_yaml_snakeyaml 2.3
+	   |-- space_arim_dazzleconf_dazzleconf-core 1.3.0-M2
+	   \-- space_arim_dazzleconf_dazzleconf-ext-snakeyaml 1.3.0-M2
+	- serverveinmine 1.2.5
+	   \-- betterconfig 1.3
+	- smartbrainlib 1.16.11
+	- sound_physics_remastered 1.21.1-1.4.10
+	- spears 1.7.3
+	- spell_power 1.4.6+1.21.1
+	   \-- tiny_config 3.1.0
+	- stackrefill 4.9
+	- structure_pool_api 1.2.1+1.21.1
+	- supermartijn642corelib 1.1.19
+	- supplementaries 1.21-3.5.17
+	- t_and_t 1.13.7
+	- takesapillage 1.0.10
+	- tectonic 3.0.19
+	- terralith 2.5.8
+	- tinyskeletons 21.1.0
+	- trade_cycling 1.21.1-1.0.18
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- fabric-screen-api-v1 2.0.24+b55973446a
+	- travelersbackpack 10.1.33
+	- trinkets 3.10.0
+	- txnilib 1.0.24
+	- universal-graves 3.4.4+1.21
+	   |-- common-protection-api 1.0.0
+	   |-- predicate-api 0.5.1+1.21
+	   |-- server_translations_api 2.3.1+1.21-pre2
+	   \-- sgui 1.6.0+1.21
+	- vanillabackport 1.1.5.3
+	- variantsandventures 1.0.22
+	- vcinteraction 1.21.1-1.0.8
+	- village_taverns 1.1.5+1.21.1
+	   \-- tiny_config 3.1.0
+	- villagernames 8.2
+	- visualworkbench 21.1.1
+	- voicechat 1.21.1-2.6.11
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- voicechat_api 2.6.0
+	- watut 1.21.0-1.2.7
+	- waystones 21.1.25
+	- weaponmaster_ydm 4.4.1
+	- wildernature 1.1.4
+	- worldedit 7.3.8+6939-7d32b45
+	- yet_another_config_lib_v3 3.8.2+1.21.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yungsapi 1.21.1-Fabric-5.1.6
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[04:55:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Runing-BETA/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:55:34] [main/INFO]: Compatibility level set to JAVA_17
+[04:55:34] [main/INFO]: Compatibility level set to JAVA_21
+[04:55:34] [main/WARN]: Reference map 'ancientstructures.refmap.json' for ancientstructures.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:34] [main/WARN]: Reference map 'ancientstructures.refmap.json' for ancientstructures.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:34] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[04:55:35] [main/INFO]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[04:55:35] [main/INFO]: Disabling com.ishland.c2me.opts.dfc.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[04:55:35] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@13.0.8 (*) (defined in c2me)
+[04:55:35] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[04:55:35] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[04:55:35] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'diagonalwalls.common.refmap.json' for diagonalwalls.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'diagonalwalls.fabric.refmap.json' for diagonalwalls.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'fastitemframes.fabric.refmap.json' for fastitemframes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/INFO]: Loaded configuration file for ModernFix 5.25.1+mc1.21.1: 65 options available, 3 override(s) found
+[04:55:35] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[04:55:35] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[04:55:35] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[04:55:35] [main/INFO]: Applying Nashorn fix
+[04:55:35] [main/INFO]: Packet Fixer forge 1.20.5-1.21.X has been applied successfully.
+[04:55:35] [main/WARN]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'tiny_config-common-common-refmap.json' for tiny_config.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:55:35] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[04:55:35] [main/WARN]: Error loading class: com/tom/storagemod/block/entity/StorageTerminalBlockEntity (java.lang.ClassNotFoundException: com/tom/storagemod/block/entity/StorageTerminalBlockEntity)
+[04:55:35] [main/WARN]: Error loading class: traben/entity_model_features/models/animation/EMFAnimationEntityContext (java.lang.ClassNotFoundException: traben/entity_model_features/models/animation/EMFAnimationEntityContext)
+[04:55:36] [main/WARN]: Error loading class: com/electronwill/nightconfig/core/io/IoUtils (java.lang.ClassNotFoundException: com/electronwill/nightconfig/core/io/IoUtils)
+[04:55:36] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[04:55:36] [main/WARN]: @Mixin target net.minecraft.class_525 was not found moonlight.mixins.json:CreateWorldScreenMixin from mod moonlight
+[04:55:36] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[04:55:36] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[04:55:36] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[04:55:36] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[04:55:36] [main/WARN]: Error loading class: net/minecraft/class_7766 (java.lang.ClassNotFoundException: net/minecraft/class_7766)
+[04:55:36] [main/WARN]: @Mixin target net.minecraft.class_7766 was not found pointblank.fabric.mixins.json:SpriteLoaderMixin from mod pointblank
+[04:55:36] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[04:55:36] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[04:55:36] [main/WARN]: Error loading class: jeresources/api/util/BiomeHelper (java.lang.ClassNotFoundException: jeresources/api/util/BiomeHelper)
+[04:55:36] [main/WARN]: Error loading class: yalter/mousetweaks/Main (java.lang.ClassNotFoundException: yalter/mousetweaks/Main)
+[04:55:36] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[04:55:37] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$bhe000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[04:55:39] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[04:55:42] [main/INFO]: Added new enum to class net.minecraft.class_1690$class_1692: FISHOFTHIEVES_COCONUT|fishofthieves_coconut
+[04:55:43] [main/INFO]: Vanilla bootstrap took 6442 milliseconds
+[04:55:44] [main/WARN]: @ModifyConstant conflict. Skipping packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ServerCommonPacketListenerImplMixin from mod packetfixer->@ModifyConstant::packetfixer$tick$1(J)J with priority 1000, already redirected by connectivity.mixins.json:ServerPlayNetHandlerMixin from mod connectivity->@ModifyConstant::playTimeout(J)J with priority 1001
+[04:55:44] [main/INFO]: fabric loader environment detected
+[04:55:44] [main/INFO]: Loaded config for: cupboard.json
+[04:55:44] [main/INFO]: Reflections took 236 ms to scan 1 urls, producing 9 keys and 76 values
+[04:55:45] [main/ERROR]: No data fixer registered for seat
+[04:55:46] [main/INFO]: Registering Listeners!
+[04:55:46] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[04:55:46] [main/INFO]: Loaded config amendments-common.json
+[04:55:46] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[04:55:46] [main/INFO]: Deserializing AOTAConfig from './config/armoroftheages.json'
+[04:55:46] [main/ERROR]: No data fixer registered for artifacts:mimic
+[04:55:46] [main/INFO]: Hello Fabric world!
+[04:55:46] [main/INFO]: Registered azurelib config for auto-sync function
+[04:55:46] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[04:55:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[04:55:46] [main/ERROR]: No data fixer registered for life_orb
+[04:55:46] [main/ERROR]: No data fixer registered for thrown_life_bottle
+[04:55:46] [main/INFO]: [STDOUT]: All 10 have been set properly
+[04:55:46] [main/INFO]: Registering Villagers for chefsdelight
+[04:55:46] [main/INFO]: Loaded config for: chunksending.json
+[04:55:46] [main/INFO]: chunksending mod initialized
+[04:55:46] [main/INFO]: Loading Collective version 8.13.
+[04:55:46] [main/INFO]: Connectivity initialized
+[04:55:47] [main/ERROR]: No data fixer registered for jungle_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for bamboo_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for desert_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for badlands_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for hills_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for savannah_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for mushroom_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for swamp_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for dripstone_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for cave_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for spruce_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for beach_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for snowy_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for ocean_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for birch_creeper
+[04:55:47] [main/ERROR]: No data fixer registered for dragonfly
+[04:55:47] [main/ERROR]: No data fixer registered for dumbo_octopus
+[04:55:47] [main/ERROR]: No data fixer registered for ferret
+[04:55:47] [main/ERROR]: No data fixer registered for jumping_spider
+[04:55:47] [main/ERROR]: No data fixer registered for koi_fish
+[04:55:47] [main/ERROR]: No data fixer registered for leaf_insect
+[04:55:47] [main/ERROR]: No data fixer registered for otter
+[04:55:47] [main/ERROR]: No data fixer registered for red_panda
+[04:55:47] [main/ERROR]: No data fixer registered for sea_bunny
+[04:55:47] [main/ERROR]: No data fixer registered for shima_enaga
+[04:55:47] [main/INFO]: Dangerous Fabric mod initializing…
+[04:55:47] [main/INFO]: [Dangerous] SkeletonWeaponManager Fabric events registered
+[04:55:47] [main/INFO]: [Dangerous] IllagerWeaponManager Fabric events registered
+[04:55:47] [main/INFO]: [Dangerous] MobDeathHandler (drop filter mixin) active
+[04:55:47] [main/ERROR]: No data fixer registered for chair
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[04:55:47] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[04:55:47] [main/ERROR]: No data fixer registered for crystallized_amber
+[04:55:47] [main/ERROR]: No data fixer registered for sculk_jaw
+[04:55:47] [main/INFO]: Constructing common components for diagonalblocks:main
+[04:55:47] [main/INFO]: Constructing common components for diagonalfences:main
+[04:55:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 125ms
+[04:55:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 29ms
+[04:55:48] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 59ms
+[04:55:48] [main/INFO]: Constructing common components for diagonalwalls:main
+[04:55:48] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 21ms
+[04:55:48] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=0.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 42ms
+[04:55:48] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 48ms
+[04:55:48] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 16ms
+[04:55:48] [main/INFO]: Constructing common components for easymagic:main
+[04:55:48] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[04:55:48] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[04:55:48] [main/ERROR]: No data fixer registered for coconut_crab
+[04:55:48] [main/ERROR]: No data fixer registered for penguin
+[04:55:48] [main/ERROR]: No data fixer registered for squirrel
+[04:55:48] [main/INFO]: ExpandAbility here, who dis?
+[04:55:48] [main/INFO]: Successfully loaded config 'fallingtrees_common'
+[04:55:48] [main/INFO]: Successfully saved config 'fallingtrees_common'
+[04:55:48] [main/INFO]: Loaded config farmersdelight-common.json
+[04:55:49] [main/INFO]: Constructing common components for fastitemframes:main
+[04:55:49] [main/INFO]: Registering Block
+[04:55:49] [main/INFO]: Registering Item
+[04:55:49] [main/INFO]: Registering Item Sub Predicate
+[04:55:49] [main/INFO]: Registering Block Entity
+[04:55:49] [main/INFO]: Registering Sound Event
+[04:55:49] [main/INFO]: Registering Entity
+[04:55:49] [main/INFO]: Registering Sensor Type
+[04:55:49] [main/INFO]: Registering Memory Module Type
+[04:55:49] [main/INFO]: Registering Feature
+[04:55:49] [main/INFO]: Registering Trunk Placer Type
+[04:55:49] [main/INFO]: Registering Tree Decorator Type
+[04:55:49] [main/INFO]: Registering Trigger Type
+[04:55:49] [main/INFO]: Registering Block State Provider Type
+[04:55:49] [main/INFO]: Registering Block Predicate Type
+[04:55:49] [main/INFO]: Registering Loot Pool Entry Type
+[04:55:49] [main/INFO]: Registering Structure Type
+[04:55:49] [main/INFO]: Registering Structure Piece Type
+[04:55:49] [main/INFO]: Registering Entity Data Serializer
+[04:55:49] [main/INFO]: Registering Loot Item Condition
+[04:55:49] [main/INFO]: Registering Trigger Type
+[04:55:49] [main/INFO]: Registering Entity Sub Predicate
+[04:55:49] [main/INFO]: Registering Mob Effect
+[04:55:49] [main/INFO]: Registering Placement Modifier
+[04:55:49] [main/INFO]: Registering Surface Rule Condition Source
+[04:55:49] [main/INFO]: Registering Poi Types
+[04:55:49] [main/INFO]: Registering Map Decoration Types
+[04:55:49] [main/INFO]: Registering Loot Item Function
+[04:55:49] [main/ERROR]: No data fixer registered for furnitureexpanded:seat
+[04:55:49] [main/INFO]: Register Mod Items for gamingfurniture
+[04:55:49] [main/INFO]: Register Mod Blocks for gamingfurniture
+[04:55:49] [main/INFO]: Registering Item Groups forgamingfurniture
+[04:55:49] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[04:55:49] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[04:55:49] [main/ERROR]: No data fixer registered for season_sensor
+[04:55:49] [main/ERROR]: No data fixer registered for handcrafted
+[04:55:49] [main/INFO]: Constructing common components for iteminteractions:main
+[04:55:49] [main/INFO]: Registering configs
+[04:55:49] [main/INFO]: Registering blocks
+[04:55:49] [main/INFO]: Registering items
+[04:55:49] [main/INFO]: Registering item groups
+[04:55:49] [main/INFO]: Registering tags
+[04:55:49] [main/INFO]: Registering entities
+[04:55:49] [main/INFO]: Registering server event handlers
+[04:55:49] [main/INFO]: Initializing JamLib on Fabric
+[04:55:49] [main/INFO]: Initializing ServerSide Packet Registries
+[04:55:49] [main/INFO]: Registering Mod Blocks for js_furniture_mod
+[04:55:49] [main/INFO]: Registering Mod Items for js_furniture_mod
+[04:55:49] [main/INFO]: Registering Item Groups for js_furniture_mod
+[04:55:49] [main/INFO]: Registering Mod Entities for js_furniture_mod
+[04:55:49] [main/INFO]: Registering Mod Entities for js_furniture_mod
+[04:55:49] [main/INFO]: Initialize mod Library Ferret
+[04:55:49] [main/INFO]: Initialized mod Library Ferret
+[04:55:49] [main/INFO]: Loaded FabricRegistrationFactory for service Factory
+[04:55:49] [main/INFO]: Loaded FabricPlatformHelper for service IPlatformHelper
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:elephant
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:giraffe
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:lion
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:shark
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:penguin
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:ostrich
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:flamingo
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:crab
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:mantaray
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:raccoon
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:owl
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:ancient_blaze
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:koala
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:snail
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:monkey
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:nether_knight
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:shroomie
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:seahorse
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:baby_ender_dragon
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:peacock
+[04:55:49] [main/ERROR]: No data fixer registered for livingthings:thrown_ostrich_egg
+[04:55:49] [main/INFO]: Config 'livingthings.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'penguin.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'elephant.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'giraffe.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'lion.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'shark.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'ostrich.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'flamingo.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'crab.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'mantaray.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'raccoon.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'owl.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'ancient_blaze.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'koala.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'snail.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'monkey.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'nether_knight.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'shroomie.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'seahorse.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'baby_ender_dragon.json' was successfully loaded.
+[04:55:49] [main/INFO]: Config 'peacock.json' was successfully loaded.
+[04:55:49] [main/INFO]: Registering MobAttributes
+[04:55:49] [main/INFO]: Registering SpawnPlacements
+[04:55:49] [main/ERROR]: No data fixer registered for mca:male_villager
+[04:55:50] [main/ERROR]: No data fixer registered for mca:female_villager
+[04:55:50] [main/ERROR]: No data fixer registered for mca:male_zombie_villager
+[04:55:50] [main/ERROR]: No data fixer registered for mca:female_zombie_villager
+[04:55:50] [main/ERROR]: No data fixer registered for mca:grim_reaper
+[04:55:50] [main/ERROR]: No data fixer registered for mca:crib
+[04:55:50] [main/INFO]: Definitely not up to no good
+[04:55:50] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
+[04:55:50] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
+[04:55:50] [main/INFO]: [STDOUT]: No matching files were found.
+[04:55:50] [main/WARN]: Config file had missing entry multi_threaded_generation
+[04:55:50] [main/INFO]: Loaded config moonlight-common.json
+[04:55:50] [main/INFO]: Loading Noisium.
+[04:55:50] [main/INFO]: Hello Fabric world!
+[04:55:50] [main/INFO]: blod: he her
+[04:55:50] [main/INFO]: Constructing common components for pickupnotifier:main
+[04:55:50] [main/INFO]: [Ping-Wheel] Init
+[04:55:50] [main/INFO]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[04:55:50] [main/INFO]: Loading mod pointblank
+[04:55:50] [main/INFO]: [STDERR]: java.nio.file.NoSuchFileException: /workspaces/Runing-BETA/servidor_minecraft/pointblank
+[04:55:50] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+[04:55:50] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixException.asIOException(UnixException.java:115)
+[04:55:50] [main/INFO]: [STDERR]: 	at java.base/sun.nio.fs.UnixFileSystemProvider.newDirectoryStream(UnixFileSystemProvider.java:501)
+[04:55:50] [main/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.newDirectoryStream(Files.java:482)
+[04:55:50] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.registry.ExtensionRegistry.scanExtensions(ExtensionRegistry.java:426)
+[04:55:50] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.registry.ExtensionRegistry.discoverExtensions(ExtensionRegistry.java:263)
+[04:55:50] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.PointBlankInitializer.init(PointBlankInitializer.java:37)
+[04:55:50] [main/INFO]: [STDERR]: 	at knot//com.vicmatskiv.pointblank.PointBlankMod.onInitialize(PointBlankMod.java:9)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63)
+[04:55:50] [main/INFO]: [STDERR]: 	at knot//net.minecraft.server.Main.main(Main.java:111)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+[04:55:50] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+[04:55:50] [main/ERROR]: No data fixer registered for javelin_rocket
+[04:55:50] [main/ERROR]: No data fixer registered for grenade
+[04:55:50] [main/ERROR]: No data fixer registered for at4_rocket
+[04:55:50] [main/ERROR]: No data fixer registered for grenade40mm
+[04:55:50] [main/ERROR]: No data fixer registered for grenade20mm
+[04:55:50] [main/ERROR]: No data fixer registered for smaw_rocket
+[04:55:50] [main/INFO]: Constructing common components for puzzleslib:main
+[04:55:50] [main/INFO]: QuickSkin loading on Fabric platform
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:upload_texture
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:update_appearance
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:request_texture
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:texture_chunk
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:upload_animation_metadata
+[04:55:50] [main/INFO]: Registering C2S receiver with id quickskin:update_server_config
+[04:55:50] [main/INFO]: QuickSkin Fabric initialization complete
+[04:55:50] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[04:55:50] [main/INFO]: Updated config file at /workspaces/Runing-BETA/servidor_minecraft/config/rightclickharvest.json5
+[04:55:50] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[04:55:50] [main/INFO]: Registering items for rusticdelight
+[04:55:50] [main/INFO]: Registering blocks for rusticdelight
+[04:55:50] [main/INFO]: Registering potions for rusticdelight
+[04:55:50] [main/INFO]: Registering biome modifications for rusticdelight
+[04:55:50] [main/INFO]: Registering placement modifiers for rusticdelight
+[04:55:50] [main/INFO]: Registering item group for rusticdelight
+[04:55:50] [main/INFO]: [ServerCore] Loaded V1.5.10+1.21.1!
+[04:55:50] [main/INFO]: Server Vein Mine is initializing!
+[04:55:50] [main/INFO]: Server Vein Mine's config has been loaded
+[04:55:50] [main/INFO]: Backported spears!
+[04:55:51] [main/INFO]: Loaded config supplementaries-common.json
+[04:55:51] [main/INFO]: Deserializing ItTakesPillageConfig from 'config/takesapillage.json'
+[04:55:51] [main/INFO]: Constructing common components for tinyskeletons:main
+[04:55:51] [main/ERROR]: No data fixer registered for baby_skeleton
+[04:55:51] [main/ERROR]: No data fixer registered for baby_wither_skeleton
+[04:55:51] [main/ERROR]: No data fixer registered for baby_stray
+[04:55:51] [main/ERROR]: No data fixer registered for baby_bogged
+[04:55:51] [main/ERROR]: No data fixer registered for mushroom
+[04:55:51] [main/ERROR]: No data fixer registered for 
+[04:55:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[04:55:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[04:55:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[04:55:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[04:55:51] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[04:55:51] [main/ERROR]: No data fixer registered for creaking
+[04:55:51] [main/ERROR]: No data fixer registered for happy_ghast
+[04:55:51] [main/ERROR]: No data fixer registered for pale_oak_boat
+[04:55:51] [main/ERROR]: No data fixer registered for pale_oak_chest_boat
+[04:55:51] [main/INFO]: Deserializing VariantsAndVenturesConfig from 'config/variantsandventures.json'
+[04:55:51] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[04:55:51] [main/INFO]: Constructing common components for visualworkbench:main
+[04:55:51] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[04:55:51] [main/INFO]: [voicechat] Compatibility version 20
+[04:55:51] [main/INFO]: [voicechat] Loading plugins
+[04:55:51] [main/INFO]: [voicechat] Loaded 3 plugin(s)
+[04:55:51] [main/INFO]: [voicechat] Initializing plugins
+[04:55:51] [main/INFO]: Initializing Simple Voice Chat integration
+[04:55:51] [main/INFO]: [voicechat] Initialized 3 plugin(s)
+[04:55:51] [main/INFO]: [voicechat] Registering events for 'pingwheel'
+[04:55:51] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[04:55:51] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[04:55:52] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:termite
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:bison
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:boar
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:cassowary
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:deer
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:dog
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:flamingo
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:hedgehog
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:minisheep
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:owl
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:pelican
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:penguin
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:raccoon
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:red_wolf
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:squirrel
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:turkey
+[04:55:52] [main/ERROR]: No data fixer registered for wildernature:bullet
+[04:55:52] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1b77b76a]
+[04:55:52] [main/INFO]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+[04:55:52] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[04:55:52] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[04:55:52] [main/ERROR]: No data fixer registered for medium_dragon_fireball
+[04:55:52] [main/ERROR]: No data fixer registered for medium_fireball
+[04:55:52] [main/ERROR]: No data fixer registered for falling_lantern
+[04:55:52] [main/ERROR]: No data fixer registered for dispenser_minecart
+[04:55:52] [main/ERROR]: No data fixer registered for plunderer
+[04:55:52] [main/ERROR]: No data fixer registered for falling_urn
+[04:55:52] [main/ERROR]: No data fixer registered for falling_ash
+[04:55:52] [main/ERROR]: No data fixer registered for falling_sack
+[04:55:52] [main/ERROR]: No data fixer registered for brick_projectile
+[04:55:52] [main/ERROR]: No data fixer registered for slimeball_projectile
+[04:55:52] [main/ERROR]: No data fixer registered for bomb
+[04:55:52] [main/ERROR]: No data fixer registered for cannonball
+[04:55:52] [main/ERROR]: No data fixer registered for rope_arrow
+[04:55:52] [main/ERROR]: No data fixer registered for slingshot_projectile
+[04:55:52] [main/ERROR]: No data fixer registered for cannon_boat
+[04:55:53] [main/INFO]: Initialized block sets in 56ms
+[04:55:53] [main/INFO]: Loaded config amendments-client.json
+[04:55:53] [main/INFO]: Initialized color sets in 77ms
+[04:55:53] [main/INFO]: Finished mod setup in: [0, 0, 0, 0, 0, 1] ms
+[04:55:53] [main/ERROR]: Registry 'minecraft:wolf_sound_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'minecraft:cow_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'minecraft:chicken_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'minecraft:pig_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'vanillabackport:frog_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'vanillabackport:wolf_variant' was empty after loading
+[04:55:53] [main/ERROR]: Registry 'vanillabackport:cat_variant' was empty after loading
+[04:55:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:55:53] [main/INFO]: Added new enum to class net.minecraft.class_4284: FISHOFTHIEVES_SAVED_BAIT_PRESERVE
+[04:55:53] [main/WARN]: Missing data pack mdm
+[04:55:53] [main/INFO]: Resource cache state for SERVER_DATA: needs regeneration
+[04:55:53] [main/INFO]: Deleting directory: /workspaces/Runing-BETA/servidor_minecraft/dynamic-data-pack-cache/supplementaries-generated_pack
+[04:55:53] [main/INFO]: Cleared cache pack resources at /workspaces/Runing-BETA/servidor_minecraft/dynamic-data-pack-cache/supplementaries-generated_pack in 2.343 ms
+[04:55:53] [main/INFO]: Starting runtime resource generation for pack type SERVER_DATA with generators [supplementaries:generated_pack]
+[04:55:53] [main/INFO]: Regenerating Dynamic SERVER_DATA Resources Provider [supplementaries:generated_pack], requested by strategy CACHED
+[04:55:53] [pool-4-thread-1/WARN]: Could not find Sign for wood dawnoftimebuilder:charred_spruce. Does this block even exist? It should! Skipping way sign recipe generation
+[04:55:53] [pool-4-thread-1/WARN]: Could not find Sign for wood dawnoftimebuilder:waxed_oak. Does this block even exist? It should! Skipping way sign recipe generation
+[04:55:53] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack in 52.80 ms
+[04:55:53] [main/INFO]: Populated search tree for pack at /workspaces/Runing-BETA/servidor_minecraft/dynamic-data-pack-cache/supplementaries-generated_pack in 2.874 ms
+[04:55:53] [main/INFO]: Finished runtime resources generation for 1 packs in a total of 62.46 ms 
+[04:55:54] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[04:55:56] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:chests/pillager_outpost}.pools[8].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[04:55:56] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/supplementaries:loot/galleon/safe}.pools[0].entries[3]: Unreachable entry!
+[04:55:56] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/supplementaries:loot/galleon/safe}.pools[2].entries[1]: Unreachable entry!
+[04:55:56] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/dungeons_arise:chests/illager_campsite/illager_campsite_tent}.pools[5].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[04:55:56] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/dungeons_arise:chests/illager_campsite/illager_campsite_map}.pools[7].entries[0]->{minecraft:chests/pillager_outpost}.pools[8].entries[0]: Unknown loot table called supplementaries:inject/pillager_quiver
+[04:55:56] [Worker-Main-1/INFO]: Command '/livingthings' registered
+[04:55:56] [Worker-Main-1/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[04:55:56] [Worker-Main-3/ERROR]: Couldn't load tag enderitemod:enderite_items as it is missing following references: enderitemod:enderite_spear (from spears)
+[04:55:56] [Worker-Main-1/INFO]: Loaded config for: connectivity.json
+[04:55:56] [Worker-Main-1/ERROR]: Couldn't read tag list minecraft:village_plains from minecraft:tags/worldgen/biome/village_plains.json in data pack mr_epic_structuresvillages
+java.lang.IllegalStateException: Failed to parse either. First: Failed to deserialize object: Missing string key 'type'!; Second: Failed to parse either. First: Not a string: {"id":"regions_unexplored:regions_unexplored:rocky_meadow","required":false}; Second: Not a valid resource location: regions_unexplored:regions_unexplored:rocky_meadow Non [a-z0-9/._-] character in path of location: regions_unexplored:regions_unexplored:rocky_meadow; Failed to parse either. First: Failed to deserialize object: Missing string key 'type'!; Second: Failed to parse either. First: Not a string: {"id":"regions_unexplored:regions_unexplored:shrubland","required":false}; Second: Not a valid resource location: regions_unexplored:regions_unexplored:shrubland Non [a-z0-9/._-] character in path of location: regions_unexplored:regions_unexplored:shrubland
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_3503.method_33174(class_3503.java:53) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3503.method_33176(class_3503.java:128) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3505.method_33181(class_3505.java:46) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[04:55:56] [Worker-Main-1/ERROR]: Couldn't read tag list minecraft:village_snowy from minecraft:tags/worldgen/biome/village_snowy.json in data pack mr_epic_structuresvillages
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 8 column 8 path $.values[3].o
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:61) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:102) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:70) ~[gson-2.10.1.jar:?]
+	at knot/net.minecraft.class_3503.method_33174(class_3503.java:51) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3503.method_33176(class_3503.java:128) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3505.method_33181(class_3505.java:46) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 8 column 8 path $.values[3].o
+	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:539) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:786) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.1.jar:?]
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:49) ~[gson-2.10.1.jar:?]
+	... 12 more
+[04:55:57] [main/ERROR]: Parsing error loading recipe minecraft:copper_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_spear
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe enderitemod:enderite_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_spear; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"enderitemod:enderite_ingot"}]; Second: Failed to parse either. First: Not a json array: {"item":"enderitemod:enderite_ingot"}; Second: No key tag in MapLike[{"item":"enderitemod:enderite_ingot"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_ingot; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"enderitemod:enderite_upgrade_smithing_template"}]; Second: Failed to parse either. First: Not a json array: {"item":"enderitemod:enderite_upgrade_smithing_template"}; Second: No key tag in MapLike[{"item":"enderitemod:enderite_upgrade_smithing_template"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: enderitemod:enderite_upgrade_smithing_template
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe dawnoftimebuilder:white_cushion
+com.google.gson.JsonParseException: No key id in MapLike[{"item":"dawnoftimebuilder:white_cushion","count":4}]
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe pointblank:g3
+com.google.gson.JsonParseException: No key tag in MapLike[{"count":5,"id":"minecraft:gold_ingot"}]; No key item in MapLike[{"count":5,"id":"minecraft:gold_ingot"}]; No key tag in MapLike[{"count":9,"id":"minecraft:iron_ingot"}]; No key item in MapLike[{"count":9,"id":"minecraft:iron_ingot"}]
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe spears:copper_nugget_from_blasting_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_nugget; Failed to parse either. First: Not a JSON object: [{"item":"minecraft:copper_spear"}]; Second: Failed to parse either. First: No key tag in MapLike[{"item":"minecraft:copper_spear"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_spear; Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: [{"item":"minecraft:copper_spear"}]; Not a JSON object: [{"item":"minecraft:copper_spear"}]
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe spears:copper_nugget_from_smelting_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_nugget; Failed to parse either. First: Not a JSON object: [{"item":"minecraft:copper_spear"}]; Second: Failed to parse either. First: No key tag in MapLike[{"item":"minecraft:copper_spear"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:copper_spear; Item array cannot be empty, at least one item must be defined; Second: Not a JSON object: [{"item":"minecraft:copper_spear"}]; Not a JSON object: [{"item":"minecraft:copper_spear"}]
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe mob_drops_recipes_overworld:rotten_flesh
+com.google.gson.JsonParseException: Pattern references symbol 'S' but it's not defined in the key
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe oreganized:electrum_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: oreganized:electrum_spear; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"oreganized:electrum_ingot"}]; Second: Failed to parse either. First: Not a json array: {"item":"oreganized:electrum_ingot"}; Second: No key tag in MapLike[{"item":"oreganized:electrum_ingot"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: oreganized:electrum_ingot; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"oreganized:electrum_upgrade_smithing_template"}]; Second: Failed to parse either. First: Not a json array: {"item":"oreganized:electrum_upgrade_smithing_template"}; Second: No key tag in MapLike[{"item":"oreganized:electrum_upgrade_smithing_template"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: oreganized:electrum_upgrade_smithing_template
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe ender_dragon_loot:dragon_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ender_dragon_loot:dragon_spear; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"ender_dragon_loot:dragon_scale"}]; Second: Failed to parse either. First: Not a json array: {"item":"ender_dragon_loot:dragon_scale"}; Second: No key tag in MapLike[{"item":"ender_dragon_loot:dragon_scale"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ender_dragon_loot:dragon_scale; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"ender_dragon_loot:dragon_upgrade_template"}]; Second: Failed to parse either. First: Not a json array: {"item":"ender_dragon_loot:dragon_upgrade_template"}; Second: No key tag in MapLike[{"item":"ender_dragon_loot:dragon_upgrade_template"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: ender_dragon_loot:dragon_upgrade_template
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/ERROR]: Parsing error loading recipe dragonloot:dragon_spear
+com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonloot:dragon_spear; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"dragonloot:dragon_scale"}]; Second: Failed to parse either. First: Not a json array: {"item":"dragonloot:dragon_scale"}; Second: No key tag in MapLike[{"item":"dragonloot:dragon_scale"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: dragonloot:dragon_scale
+	at knot/com.mojang.serialization.DataResult$Error.md35230f$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1024) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1012) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:514) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.18.4.jar:?]
+[04:55:57] [main/INFO]: Loaded 6839 recipes
+[04:55:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_illager_corsair_or_illager_galley: No key id in MapLike[{"item":"minecraft:tropical_fish"}]
+[04:55:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_infested_temple_map: No key id in MapLike[{"item":"minecraft:filled_map"}]
+[04:55:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_greenwood_pub: No key id in MapLike[{"item":"minecraft:barrel"}]
+[04:55:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_thornborn_towers: No key id in MapLike[{"item":"minecraft:rose_bush"}]
+[04:55:58] [main/ERROR]: Parsing error loading custom advancement dungeons_arise:find_keep_kayra: No key id in MapLike[{"item":"minecraft:lily_pad"}]
+[04:55:58] [main/ERROR]: Couldn't load advancements: [minecraft:give_quest_trader_trade, dungeons_arise:find_plague_asylum, minecraft:wander_add_map, dungeons_arise:find_fishing_hut]
+[04:55:58] [main/INFO]: Loaded 4912 advancements
+[04:55:58] [main/INFO]: Applied 17 data villager trades
+[04:55:58] [main/INFO]: Failed to load custom color set definition {"id":"quark:rune","colors":{"default":"quark:blank_rune"},"replace":false}. Ignoring
+[04:55:58] [main/INFO]: Failed to load custom color set definition {"id":"quark:shard","colors":{"default":"quark:clear_shard"},"replace":false}. Ignoring
+[04:55:58] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[04:55:58] [main/INFO]: Loaded 28 flute songs
+[04:55:58] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:ingots/lead, c:storage_blocks/lead
+[04:55:58] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: ecologics:has_structure/desert_ruin
+[04:55:58] [main/INFO]: Registering custom dispenser behaviors
+[04:55:58] [main/WARN]: Initial datapack load took 5.384 s
+[04:55:59] [main/INFO]: Applied 3202 biome modifications to 168 of 168 new biomes in 125.6 ms
+[04:55:59] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[04:55:59] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
+[04:55:59] [Server thread/INFO]: Dispatching loading event for config pickupnotifier/pickupnotifier-server.toml
+[04:55:59] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 3723 bytes (in 1 string chunks with the size of 10000)
+[04:55:59] [Server thread/INFO]: Dangerous Mod is ready and loaded!
+[04:55:59] [Server thread/INFO]: Loading server configs...
+[04:55:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:55:59] [Server thread/INFO]: Loading properties
+[04:55:59] [Server thread/INFO]: Default game type: SURVIVAL
+[04:55:59] [Server thread/INFO]: Generating keypair
+[04:55:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:55:59] [Server thread/INFO]: Using epoll channel type
+[04:55:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:55:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:55:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:55:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:55:59] [Server thread/INFO]: Preparing level "worldBackup"
+[04:55:59] [Server thread/INFO]: Enforcing safe world random access
+[04:56:00] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[04:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:56:13] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[04:56:13] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[04:56:14] [minecraft_overworld - Light/INFO]: Preparing spawn area: 12%
+[04:56:17] [c2me-worker-0/INFO]: Preparing spawn area: 34%
+[04:56:17] [minecraft_overworld - Light/INFO]: Preparing spawn area: 34%
+[04:56:17] [c2me-worker-0/INFO]: Preparing spawn area: 34%
+[04:56:17] [minecraft_overworld - Light/INFO]: Preparing spawn area: 34%
+[04:56:17] [c2me-worker-0/INFO]: Preparing spawn area: 34%
+[04:56:17] [Server thread/INFO]: Preparing spawn area: 77%
+[04:56:17] [c2me-worker-0/INFO]: Preparing spawn area: 97%
+[04:56:17] [Server thread/INFO]: Time elapsed: 4671 ms
+[04:56:17] [Server thread/INFO]: Done (17.979s)! For help, type "help"
+[04:56:17] [Server thread/WARN]: Dedicated server took 45.784 seconds to load
+[04:56:18] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[04:56:18] [Server thread/INFO]: Start loading plugin from Exposure: io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
+[04:56:18] [Server thread/ERROR]: Error loading plugin at null
+net.fabricmc.loader.api.EntrypointException: Exception while loading entries for entrypoint 'jade' provided by 'fallingtrees'
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:56) ~[fabric-loader-0.18.4.jar:?]
+	at knot/snownee.jade.util.CommonProxy.lambda$loadComplete$5(CommonProxy.java:451) ~[Jade-1.21.1-Fabric-15.10.5.jar:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at knot/snownee.jade.util.CommonProxy.loadComplete(CommonProxy.java:447) ~[Jade-1.21.1-Fabric-15.10.5.jar:?]
+	at knot/snownee.jade.util.CommonProxy.lambda$onInitialize$8(CommonProxy.java:656) ~[Jade-1.21.1-Fabric-15.10.5.jar:?]
+	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49) ~[fabric-lifecycle-events-v1-2.6.0+0865547519-b708949927e5f1f4.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.handler$cac000$fabric-lifecycle-events-v1$afterSetupServer(MinecraftServer.java:6643) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:668) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.fabricmc.loader.api.LanguageAdapterException: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.JadePlugin
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:52) ~[fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.18.4.jar:?]
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.JadePlugin
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:239) ~[fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.18.4.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.18.4.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.18.4.jar:?]
+	... 9 more
+[04:56:18] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[04:56:18] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[04:56:18] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[04:56:18] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[04:56:18] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[04:56:18] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[04:56:18] [Server thread/INFO]: Start loading plugin from Supplementaries: net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[04:56:18] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[04:56:18] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[04:56:18] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@6c985508 for service interface journeymap.api.services.ClientPlatformService
+[04:56:18] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@3931da6b for service interface journeymap.api.services.CommonPlatformService
+[04:56:19] [C2ME Storage #15/INFO]: Storage thread Thread[#120,C2ME Storage #15,5,main] stopped
+[04:56:19] [C2ME Storage #13/INFO]: Storage thread Thread[#118,C2ME Storage #13,5,main] stopped
+[04:56:19] [C2ME Storage #14/INFO]: Storage thread Thread[#119,C2ME Storage #14,5,main] stopped
+[04:56:29] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04:56:29] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'institute-switching.gl.at.ply.gg'
+[04:56:29] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 30409
+[04:56:48] [Server thread/INFO]: [Dangerous] HP multiplier changed from 1.0 to 2.0 on day 515
+[04:56:49] [Server thread/WARN]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientboundCustomPayloadPacketMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1, already redirected by packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize(I)I with priority 1000
+[04:56:49] [Server thread/WARN]: @ModifyConstant conflict. Skipping connectivity.mixins.json:ClientboundCustomPayloadPacketMixin from mod connectivity->@ModifyConstant::modifyLimit2(I)I with priority 1, already redirected by packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize$2(I)I with priority 1000
+[04:56:51] [Netty Epoll Server IO #1/WARN]: @ModifyConstant conflict. Skipping packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ServerLoginPacketListenerImplMixin from mod packetfixer->@ModifyConstant::packetfixer$tick(I)I with priority 1000, already redirected by connectivity.mixins.json:ServerLoginNetHandlerMixin from mod connectivity->@ModifyConstant::loginTimeout(I)I with priority 1001
+[04:56:51] [Netty Epoll Server IO #1/WARN]: @ModifyConstant conflict. Skipping packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.CompressionEncoderMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1000
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathtub is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathroom_shelf is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:kitchen_set_3_hanging_cabinet is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:kitchen_set_3_corner_counter_with_sink is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathtub is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathroom_shelf is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:kitchen_set_3_hanging_cabinet is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:kitchen_set_3_corner_counter_with_sink is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathroom_shelf is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:kitchen_set_3_hanging_cabinet is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:56:58] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/cfcb7121-0c52-37f3-b9ad-6a30c1ab373b.json: Don't know what mdm:white_bathroom_shelf is
+[04:56:58] [Server thread/INFO]: xXSansXx20[/127.217.246.118:45771] logged in with entity id 29 at (156.4347550507399, 56.0, -346.65749778950664)
+[04:56:58] [Server thread/INFO]: Sending server config values to client
+[04:56:58] [Server thread/INFO]: Loading config from file...
+[04:56:58] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[04:56:58] [Server thread/INFO]: xXSansXx20 joined the game
+[04:56:59] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to xXSansXx20
+[04:56:59] [Server thread/INFO]: Sending item configs to client
+[04:56:59] [c2me-worker-1/ERROR]: Recoverable errors when loading section [8, 4, -24]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:tv_stand_mid_decorated -> using default)
+[04:56:59] [c2me-worker-0/ERROR]: Recoverable errors when loading section [10, 4, -24]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:set_1_coffe_table_1_tall -> using default)
+[04:56:59] [c2me-worker-2/ERROR]: Recoverable errors when loading section [11, 4, -23]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:kitchen_set_3_hanging_cabinet -> using default)
+[04:56:59] [c2me-worker-0/ERROR]: Recoverable errors when loading section [11, 4, -24]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:kitchen_set_3_hanging_cabinet -> using default)
+[04:56:59] [c2me-worker-2/ERROR]: Recoverable errors when loading section [10, 4, -25]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:set_1_coffe_table_1_tall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:set_1_coffe_table_1_tall -> using default); (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: mdm:set_1_coffe_table_1_tall -> using default)
+[04:57:00] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mdm:bedroom_set_1whitewardrobe'
+[04:57:00] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mdm:set_1_coffe_table_1_tall'
+[04:57:00] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mdm:kitchen_set_3_hanging_cabinet'
+[04:57:00] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mdm:kitchen_set_3_corner_counter_with_sink'
+[04:57:00] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mdm:white_bathtub'
+[04:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[04:57:00] [Server thread/WARN]: Skipping BlockEntity with id mdm:kitchen_set_3_hanging_cabinet
+[04:57:00] [Server thread/WARN]: Skipping BlockEntity with id mdm:kitchen_set_3_hanging_cabinet
+[04:57:00] [Server thread/WARN]: @ModifyConstant conflict. Skipping packetfixer.v1_20_5.fabric.mixins.json:v1_20_5_fabric.ClientboundLevelChunkPacketDataMixin from mod packetfixer->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:ClientBoundLevelChunkPacketDataLimitMixin from mod connectivity->@ModifyConstant::modifyLimit(I)I with priority 1000
+[04:57:00] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from xXSansXx20
+[04:57:00] [Server thread/INFO]: Channel update: xXSansXx20 -> default
+[04:57:00] [Server thread/INFO]: [voicechat] Received secret request of xXSansXx20 (20)
+[04:57:00] [Server thread/INFO]: [voicechat] Sent secret to xXSansXx20
+[04:57:00] [Server thread/ERROR]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:285) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.method_14002(NewChunkHolderVanillaInterface.java:299) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/net.minecraft.class_3215.method_14128(class_3215.java:424) ~[server-intermediary.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:190) ~[waystones-fabric-1.21.1-21.1.25.jar:?]
+	at knot/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-fabric-1.21.1-21.1.25.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.minecraft.class_2622.method_39026(class_2622.java:31) ~[server-intermediary.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.method_38235(BalmBlockEntity.java:51) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.minecraft.class_3193.method_14009(class_3193.java:242) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_30311(class_3193.java:235) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_30312(class_3193.java:227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2637.method_30621(class_2637.java:76) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_14006(class_3193.java:227) ~[server-intermediary.jar:?]
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.method_14006(NewChunkHolderVanillaInterface.java:323) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/net.minecraft.class_3215.redirect$eej000$servercore$broadcastChanges(class_3215.java:1099) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_14161(class_3215.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_12127(class_3215.java:310) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.method_18765(class_3218.java:350) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1021) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3813(class_3176.java:299) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:912) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:57:00] [Server thread/ERROR]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+java.lang.Throwable: null
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.onBlockLightUpdateReentrance(NewChunkHolderVanillaInterface.java:285) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.method_14002(NewChunkHolderVanillaInterface.java:299) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/net.minecraft.class_3215.method_14128(class_3215.java:424) ~[server-intermediary.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.sync(BalmBlockEntity.java:172) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.getWaystone(WaystoneBlockEntityBase.java:190) ~[waystones-fabric-1.21.1-21.1.25.jar:?]
+	at knot/net.blay09.mods.waystones.block.entity.WaystoneBlockEntityBase.writeUpdateTag(WaystoneBlockEntityBase.java:140) ~[waystones-fabric-1.21.1-21.1.25.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.createUpdateTag(BalmBlockEntity.java:183) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.lambda$createUpdatePacket$0(BalmBlockEntity.java:177) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.minecraft.class_2622.method_39026(class_2622.java:31) ~[server-intermediary.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.createUpdatePacket(BalmBlockEntity.java:177) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.blay09.mods.balm.common.BalmBlockEntity.method_38235(BalmBlockEntity.java:51) ~[balm-fabric-1.21.1-21.0.56.jar:?]
+	at knot/net.minecraft.class_3193.method_14009(class_3193.java:242) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_30311(class_3193.java:235) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_30312(class_3193.java:227) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2637.method_30621(class_2637.java:76) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3193.method_14006(class_3193.java:227) ~[server-intermediary.jar:?]
+	at knot/com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface.method_14006(NewChunkHolderVanillaInterface.java:323) ~[c2me-rewrites-chunk-system-0.3.0.362+1.21.1-5e6e9147fd0278d1.jar:?]
+	at knot/net.minecraft.class_3215.redirect$eej000$servercore$broadcastChanges(class_3215.java:1099) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_14161(class_3215.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_12127(class_3215.java:310) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.method_18765(class_3218.java:350) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1021) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3813(class_3176.java:299) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:912) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:57:01] [Server thread/INFO]: Receiving client config
+[04:57:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[04:57:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cfcb7121-0c52-37f3-b9ad-6a30c1ab373b
+[04:57:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xXSansXx20 (cfcb7121-0c52-37f3-b9ad-6a30c1ab373b) successfully connected to voice chat
+[04:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8804ms or 176 ticks behind
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffe_table_2 is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:tv_stand_mid_decorated is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:white_bathtub is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffee_table_2_middle is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:white_bathroom_shelf is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:kitchen_set_3_hanging_cabinet is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:kitchen_set_3_corner_counter_with_sink is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:black_moder_stairs is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:blue_curtain is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffe_table_1_short is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:bedroom_set_1whitewardrobe is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:kitchen_set_3_hanging_cabinet is
+[04:58:07] [Server thread/WARN]: Invalid statistic in ./worldBackup/stats/3a110192-6635-3833-abff-63264a24f741.json: Don't know what mdm:set_1_coffe_table_1_tall is
+[04:58:07] [Server thread/INFO]: coete10[/127.125.150.221:52981] logged in with entity id 972 at (169.15633678018, 66.0, -348.7425999033758)
+[04:58:07] [Server thread/INFO]: Sending server config values to client
+[04:58:07] [Server thread/INFO]: Loading config from file...
+[04:58:07] [Server thread/INFO]: coete10 joined the game
+[04:58:07] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to coete10
+[04:58:07] [Server thread/INFO]: Sending item configs to client
+[04:58:07] [Server thread/INFO]: Received client config 'fallingtrees:fallingtrees_client' from coete10
+[04:58:07] [Server thread/INFO]: Channel update: coete10 -> default
+[04:58:07] [Server thread/INFO]: [voicechat] Received secret request of coete10 (20)
+[04:58:07] [Server thread/INFO]: [voicechat] Sent secret to coete10
+[04:58:08] [Server thread/INFO]: Receiving client config
+[04:58:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3a110192-6635-3833-abff-63264a24f741
+[04:58:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3a110192-6635-3833-abff-63264a24f741
+[04:58:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player coete10 (3a110192-6635-3833-abff-63264a24f741) successfully connected to voice chat
+[04:58:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Initializing Opus
+[04:58:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully initialized Opus
+[04:59:38] [Server thread/INFO]: [Not Secure] <coete10> XD
+[04:59:41] [Server thread/INFO]: [Not Secure] <coete10> sans
+[04:59:43] [Server thread/INFO]: [Not Secure] <coete10> ven
+[04:59:50] [Server thread/INFO]: [xXSansXx20: Teleported xXSansXx20 to coete10]
+[04:59:59] [Server thread/INFO]: [Not Secure] <xXSansXx20> XDDDDDDDDDDDDDD
+[05:01:56] [Server thread/INFO]: [Not Secure] <coete10> puta
+[05:02:01] [Server thread/INFO]: [Not Secure] <coete10> mi mesa de televisor
+[05:03:12] [Server thread/INFO]: [Not Secure] <coete10> XDDDDDDD
+[05:03:18] [Server thread/INFO]: [Not Secure] <coete10> q
+[05:03:23] [Server thread/INFO]: [Not Secure] <coete10> ala
+[05:03:35] [Server thread/INFO]: [Not Secure] <coete10> ni modo
+[05:03:37] [Server thread/INFO]: [Not Secure] <coete10> muevele
+[05:03:39] [Server thread/INFO]: [Not Secure] <coete10> y el anillo
+[05:03:46] [Server thread/INFO]: [Not Secure] <coete10> rapido
+[05:03:49] [Server thread/INFO]: [Not Secure] <coete10> mas diamantes
+[05:04:04] [Server thread/INFO]: [Not Secure] <coete10> XD
+[05:04:21] [Server thread/INFO]: [Not Secure] <coete10> 1040
+[05:04:57] [Server thread/INFO]: [Not Secure] <coete10> w
+[05:09:32] [Server thread/INFO]: [Not Secure] <coete10> tienes tronco de abedul?
+[05:10:07] [Server thread/INFO]: [Not Secure] <coete10> ya no da crash tampoco eso?
+[05:10:28] [Server thread/INFO]: [Not Secure] <coete10> por cierto
+[05:10:32] [Server thread/INFO]: [Not Secure] <coete10> era de otra madera
+[05:10:35] [Server thread/INFO]: [Not Secure] <coete10> pero no importa
+[05:10:36] [Server thread/INFO]: [Not Secure] <coete10> XDD
+[05:10:40] [Server thread/INFO]: [Not Secure] <coete10> yo se
+[05:10:42] [Server thread/INFO]: [Not Secure] <coete10> me confundi yo
+[05:12:15] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:18] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:19] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:19] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:19] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:21] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:21] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:21] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:22] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:22] [Server thread/INFO]: [Not Secure] <coete10> tt
+[05:12:24] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:24] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:25] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:25] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:25] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:25] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:27] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:27] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:28] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:28] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:29] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:31] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[05:12:34] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:34] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:34] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:34] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:35] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:35] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:35] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:12:36] [Server thread/INFO]: [Not Secure] <coete10> ash
+[05:12:38] [Server thread/INFO]: [Not Secure] <coete10> no me sale
+[05:13:29] [Server thread/INFO]: [Not Secure] <coete10> este man
+[05:13:48] [Server thread/INFO]: [Not Secure] <coete10> !mod
+[05:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05:15:19] [c2me-worker-1/ERROR]: Recoverable errors when loading section [31, -2, -52]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/anvil -> using default)
+[05:15:33] [Server thread/INFO]: [Not Secure] <coete10> es hermoso
+[05:15:36] [Server thread/INFO]: [Not Secure] <coete10> pero aqui sobra
+[05:15:43] [Server thread/INFO]: [Not Secure] <coete10> osea
+[05:15:46] [Server thread/INFO]: [Not Secure] <coete10> porque aqui?
+[05:15:47] [Server thread/INFO]: [Not Secure] <coete10> XD
+[05:15:59] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:15] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:15] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:15] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:16] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:16] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:16] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:16] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:17] [Server thread/INFO]: [Not Secure] <coete10> y donde hay tomate
+[05:16:25] [Server thread/INFO]: [Not Secure] <coete10> y lechuga
+[05:16:29] [Server thread/INFO]: [Not Secure] <coete10> y cebolla
+[05:16:32] [Server thread/INFO]: [Not Secure] <coete10> y betabel
+[05:16:38] [Server thread/INFO]: [Not Secure] <coete10> y arroz
+[05:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05:17:28] [Server thread/INFO]: [Not Secure] <coete10> este man
+[05:17:35] [Server thread/INFO]: [Not Secure] <coete10> pero mejor en el agua
+[05:17:38] [Server thread/INFO]: [Not Secure] <coete10> protegia
+[05:17:40] [Server thread/INFO]: [Not Secure] <coete10> aqui no
+[05:17:45] [Server thread/INFO]: [Not Secure] <coete10> la loba
+[05:17:50] [Server thread/INFO]: [Not Secure] <coete10> la shopi
+[05:17:54] [Server thread/INFO]: [Not Secure] <coete10> la guardia
+[05:18:27] [Server thread/INFO]: [Not Secure] <coete10> w
+[05:19:05] [Server thread/INFO]: [Not Secure] <coete10> .ban xsansx
+[05:19:12] [Server thread/INFO]: [Not Secure] <coete10> .request delete server
+[05:19:20] [Server thread/INFO]: [Not Secure] [Server] request acepted
+[05:19:27] [Server thread/INFO]: [Not Secure] [Server] deleting
+[05:19:31] [Server thread/INFO]: [Not Secure] [Server] please wait
+[05:19:33] [Server thread/INFO]: [Not Secure] [Server] 10
+[05:19:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:19:36] [Server thread/INFO]: <--[HERE]
+[05:19:38] [Server thread/INFO]: [Not Secure] [Server] 8
+[05:19:41] [Server thread/INFO]: [Not Secure] [Server] 7
+[05:19:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:19:44] [Server thread/INFO]: <--[HERE]
+[05:19:45] [Server thread/INFO]: [Not Secure] [Server] 5
+[05:19:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:19:48] [Server thread/INFO]: <--[HERE]
+[05:19:50] [Server thread/INFO]: [Not Secure] [Server] 3
+[05:19:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:19:53] [Server thread/INFO]: <--[HERE]
+[05:19:55] [Server thread/INFO]: [Not Secure] [Server] 1
+[05:21:42] [Server thread/INFO]: [Not Secure] <coete10> semi?
+[05:21:43] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:47] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:48] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:48] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:21:49] [Server thread/INFO]: [Not Secure] <coete10> t
+[05:21:50] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:50] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:51] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:51] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:51] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:51] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:52] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:21:52] [Server thread/INFO]: [Not Secure] <coete10> zz
+[05:22:34] [Server thread/INFO]: [xXSansXx20: Teleported xXSansXx20 to coete10]
+[05:23:22] [Server thread/INFO]: [xXSansXx20: Teleported xXSansXx20 to coete10]
+[05:24:08] [Server thread/INFO]: [Not Secure] <coete10> ingenioso, pero no lo usaria
+[05:24:10] [Server thread/INFO]: [Not Secure] <coete10> XD
+[05:24:20] [Server thread/INFO]: [Not Secure] <coete10> si fuera a hacer
+[05:24:24] [Server thread/INFO]: [Not Secure] <coete10> pero es que
+[05:24:27] [Server thread/INFO]: [Not Secure] <coete10> me da mas pereza asi
+[05:25:14] [c2me-worker-1/ERROR]: Recoverable errors when loading section [31, -2, -52]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/anvil -> using default)
+[05:25:18] [c2me-worker-0/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[05:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[05:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05:37:53] [Server thread/INFO]: [Not Secure] <xXSansXx20> NOOOOOOO
+[05:37:55] [Server thread/INFO]: [Not Secure] <xXSansXx20> OTOÑO
+[05:47:43] [c2me-worker-0/ERROR]: Recoverable errors when loading section [31, -2, -52]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/anvil -> using default)
+[05:47:51] [c2me-worker-2/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[05:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[05:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[05:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3292ms or 65 ticks behind
+[05:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[05:49:10] [c2me-worker-2/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[05:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
+[05:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3377ms or 67 ticks behind
+[05:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
+[05:50:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[05:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4993ms or 99 ticks behind
+[05:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[05:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[05:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[05:51:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[05:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[05:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[05:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[05:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05:57:36] [c2me-worker-1/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[05:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[05:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
+[05:58:04] [Server thread/INFO]: [Not Secure] <xXSansXx20> jacob
+[05:58:08] [Server thread/INFO]: [Not Secure] <coete10> a
+[05:58:10] [Server thread/INFO]: [Not Secure] <xXSansXx20> voy a cambiar el clima
+[05:58:12] [Server thread/INFO]: [Not Secure] <xXSansXx20> un momento
+[05:58:15] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
+[05:58:18] [Server thread/INFO]: [Not Secure] <coete10> ilegalisimo
+[05:58:25] [Server thread/INFO]: [Not Secure] <xXSansXx20> solo 5 minutos
+[05:58:27] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:31] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[05:58:33] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:44] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:46] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:49] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[05:58:49] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[05:58:50] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[05:58:50] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[05:58:53] [Server thread/INFO]: [Not Secure] <coete10> no
+[05:58:54] [Server thread/INFO]: [Not Secure] <coete10> no
+[06:00:49] [Server thread/INFO]: [Not Secure] <coete10> por cierto
+[06:00:53] [Server thread/INFO]: [Not Secure] <coete10> como que mas mapa
+[06:00:54] [Server thread/INFO]: [Not Secure] <coete10> XD
+[06:01:08] [Server thread/INFO]: [Not Secure] <xXSansXx20> sisi
+[06:01:11] [Server thread/INFO]: [Not Secure] <xXSansXx20> 25
+[06:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[06:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06:03:35] [Server thread/INFO]: [Not Secure] <coete10> w
+[06:03:38] [c2me-worker-2/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[06:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[06:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
+[06:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[06:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:05:15] [c2me-worker-2/ERROR]: Recoverable errors when loading section [-14, -2, -70]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/chipped_anvil -> using default)
+[06:05:17] [c2me-worker-0/ERROR]: Recoverable errors when loading section [-20, 0, -71]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: jewelry:deepslate_gem_vein -> using default)
+[06:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[06:05:35] [c2me-worker-1/ERROR]: Recoverable errors when loading section [31, -2, -52]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/anvil -> using default)
+[06:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[06:06:54] [Server thread/INFO]: [Not Secure] <coete10> si, pero esta gigante
+[06:06:56] [Server thread/INFO]: [Not Secure] <coete10> pero
+[06:07:03] [Server thread/INFO]: [Not Secure] <coete10> no seria mejor en una mesa o la pared?
+[06:08:12] [Server thread/INFO]: [Not Secure] <coete10> revivi
+[06:08:13] [Server thread/INFO]: [Not Secure] <coete10> xd
+[06:08:16] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?
+[06:08:28] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?
+[06:08:28] [Server thread/INFO]: [Not Secure] <coete10> t
+[06:08:29] [Server thread/INFO]: [Not Secure] <coete10> t
+[06:08:29] [Server thread/INFO]: [Not Secure] <coete10> t
+[06:08:31] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?
+[06:08:31] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?
+[06:08:32] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?t
+[06:08:32] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?t
+[06:08:33] [Server thread/INFO]: [Not Secure] <coete10> que dijiste?t
+[06:08:40] [Server thread/INFO]: [Not Secure] <coete10> y una mes?
+[06:08:47] [Server thread/INFO]: [Not Secure] <coete10> y una mesa?
+[06:08:52] [Server thread/INFO]: [Not Secure] <coete10> pero
+[06:08:56] [Server thread/INFO]: [Not Secure] <coete10> luego sera mas dificil
+[06:09:01] [Server thread/INFO]: [Not Secure] <coete10> bueno
+[06:09:03] [Server thread/INFO]: [Not Secure] <coete10> ahi tu
+[06:09:16] [Server thread/INFO]: [Not Secure] <coete10> no estaba en el pc
+[06:09:22] [Server thread/INFO]: [Not Secure] <coete10> este man
+[06:09:24] [Server thread/INFO]: [Not Secure] <coete10> XD
+[06:10:43] [Server thread/WARN]: Skipping loading of outdated or expired slot mappings.
+[06:11:25] [Server thread/INFO]: [xXSansXx20: Gave 1 [Paper] to xXSansXx20]
+[06:11:30] [Server thread/INFO]: [Not Secure] <coete10> hmmm
+[06:11:38] [Server thread/INFO]: [Not Secure] <xXSansXx20> me da pereza hacer 1
+[06:11:41] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[06:11:42] [Server thread/INFO]: [Not Secure] <xXSansXx20> no tengo mas caña
+[06:11:45] [Server thread/INFO]: [Not Secure] <coete10> pasa
+[06:11:47] [Server thread/INFO]: [Not Secure] <coete10> pasa
+[06:11:50] [Server thread/INFO]: [Not Secure] <coete10> pasa
+[06:11:54] [Server thread/INFO]: [Not Secure] <coete10> eso
+[06:11:55] [Server thread/INFO]: [Not Secure] <coete10> pasa
+[06:12:02] [Server thread/INFO]: [Not Secure] <coete10> pasa el mapa
+[06:12:10] [Server thread/INFO]: [Not Secure] <coete10> pasa
+[06:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06:12:55] [Server thread/INFO]: [xXSansXx20: Teleported xXSansXx20 to coete10]
+[06:13:15] [Server thread/INFO]: [xXSansXx20: Teleported xXSansXx20 to coete10]
+[06:14:38] [c2me-worker-2/ERROR]: Recoverable errors when loading section [31, -2, -52]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/anvil -> using default)
+[06:14:43] [c2me-worker-1/ERROR]: Recoverable errors when loading section [27, 0, -58]: (Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: easyanvils:minecraft/damaged_anvil -> using default)
+[06:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06:14:50] [Server thread/WARN]: Skipping BlockEntity with id easyanvils:anvil
+[06:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5848ms or 116 ticks behind
+[06:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[06:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[06:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[06:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3816ms or 76 ticks behind
+[06:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4315ms or 86 ticks behind
+[06:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[06:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[06:17:45] [Server thread/INFO]: [xXSansXx20: Gave 1 [Map] to xXSansXx20]
+[06:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[06:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
+[06:19:32] [Server thread/INFO]: [xXSansXx20: Gave 1 [Empty Map] to xXSansXx20]
+[06:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[06:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[06:20:19] [Server thread/INFO]: Named entity GuardEntity['Laverne'/18763, l='ServerLevel[world]', x=263.35, y=64.00, z=-422.02] died: Laverne was slain by Zoran
+[06:20:22] [Server thread/INFO]: Named entity GuardEntity['Marnie'/19043, l='ServerLevel[world]', x=274.87, y=64.00, z=-416.49] died: Marnie was slain by Savo
+[06:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
+[06:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[06:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[06:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
+[06:21:49] [Server thread/INFO]: Named entity GuardEntity['Juliana'/19103, l='ServerLevel[world]', x=276.96, y=64.00, z=-443.54] died: Juliana was slain by Ilinka
+[06:21:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[06:23:47] [Server thread/INFO]: Named entity GuardEntity['Nancie'/18956, l='ServerLevel[world]', x=250.63, y=64.00, z=-389.02] died: Nancie was slain by Živana
+[06:27:23] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:29:01] [Server thread/INFO]: [Not Secure] <coete10> hermoso
+[06:29:08] [Server thread/INFO]: [Not Secure] <coete10> mua
+[06:29:19] [Server thread/INFO]: [Not Secure] <coete10> este man
+[06:29:33] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:41] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:45] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:45] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:46] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:46] [Server thread/INFO]: [Not Secure] <coete10> pa que
+[06:29:56] [Server thread/INFO]: [Not Secure] <coete10> y pa que quiero ver eso en un mapa
+[06:29:58] [Server thread/INFO]: [Not Secure] <coete10> XD
+[06:30:04] [Server thread/INFO]: [Not Secure] <coete10> mira eso
+[06:30:07] [Server thread/INFO]: [Not Secure] <coete10> un coso cuadrado
+[06:30:28] [Server thread/INFO]: [Not Secure] <coete10> pues por el qlo te la inco
+[06:30:29] [Server thread/INFO]: [Not Secure] <coete10> ja
+[06:30:30] [Server thread/INFO]: [Not Secure] <coete10> ja
+[06:30:36] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:37] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:41] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:43] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:44] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:44] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:45] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:46] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:46] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:47] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:48] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06:30:51] [Server thread/INFO]: [Not Secure] <coete10> lento
+[06:30:52] [Server thread/INFO]: [Not Secure] <coete10> zz
+[06:30:54] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:57] [Server thread/INFO]: [Not Secure] <coete10> aprende
+[06:30:58] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:58] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:59] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:30:59] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:00] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:00] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:01] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:01] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:01] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:02] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:02] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:02] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:02] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:02] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:02] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:02] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:03] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:03] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:04] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:04] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:04] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:04] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:05] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:05] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:05] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:05] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:06] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:06] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:06] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:06] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:06] [Server thread/INFO]: [xXSansXx20: Teleported coete10 to xXSansXx20]
+[06:31:07] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:07] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:07] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:07] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:07] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:08] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:09] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:09] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:09] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:10] [Server thread/INFO]: [coete10: Teleported xXSansXx20 to coete10]
+[06:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:32:14] [Server thread/INFO]: [coete10: Teleported coete10 to xXSansXx20]
+[06:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06:34:03] [Server thread/INFO]: [Not Secure] <coete10> espera
+[06:34:29] [Server thread/INFO]: [Not Secure] <coete10> ya
+[06:34:32] [Server thread/INFO]: [Not Secure] <coete10> continua
+[06:34:37] [Server thread/INFO]: [Not Secure] <coete10> que pasa con la cabeza del dragon
+[06:34:38] [Server thread/INFO]: [Not Secure] <coete10> xd
+[06:36:18] [Server thread/INFO]: [Not Secure] <coete10> pero como asi al aire libre o con cristal
+[06:36:24] [Server thread/INFO]: [Not Secure] <coete10> la separacion?
+[06:36:39] [Server thread/INFO]: [Not Secure] <coete10> ya
+[06:36:42] [Server thread/INFO]: [Not Secure] <coete10> entiendo creo
+[06:36:48] [Server thread/INFO]: [Not Secure] <coete10> pues
+[06:36:53] [Server thread/INFO]: [Not Secure] <coete10> no se, toca mirar
+[06:37:01] [Server thread/INFO]: [Not Secure] <coete10> porque de las 2 formas se ven bien
+[06:37:07] [Server thread/INFO]: [Not Secure] <coete10> dependiendo del item
+[06:37:15] [Server thread/INFO]: [Not Secure] <coete10> tons miremos eso a lo ultimo
+[06:38:02] [Server thread/INFO]: [Not Secure] <coete10> o persianas
+[06:38:20] [Server thread/INFO]: [Not Secure] <coete10> no, todo junto
+[06:38:27] [Server thread/INFO]: [Not Secure] <coete10> es como un cuarto entero
+[06:38:30] [Server thread/INFO]: [Not Secure] <coete10> donde hay plays
+[06:38:33] [Server thread/INFO]: [Not Secure] <coete10> pcs gamer
+[06:38:35] [Server thread/INFO]: [Not Secure] <coete10> y asi
+[06:39:09] [Server thread/INFO]: [Not Secure] <coete10> zona de mantenimiento
+[06:39:11] [Server thread/INFO]: [Not Secure] <coete10> aunque
+[06:39:14] [Server thread/INFO]: [Not Secure] <coete10> si nos falta eso
+[06:39:20] [Server thread/INFO]: [Not Secure] <coete10> porque hay lavadoras creo
+[06:39:32] [Server thread/INFO]: [Not Secure] <coete10> eso es zona de mantenimiento
+[06:39:35] [Server thread/INFO]: [Not Secure] <coete10> todo lo de lavadora
+[06:39:40] [Server thread/INFO]: [Not Secure] <coete10> traperos
+[06:39:45] [Server thread/INFO]: [Not Secure] <coete10> zona de lavado
+[06:39:51] [Server thread/INFO]: [Not Secure] <coete10> pues toca ver
+[06:49:16] [Server thread/INFO]: coete10 lost connection: Disconnected
+[06:49:16] [Server thread/INFO]: coete10 left the game
+[06:49:16] [Server thread/INFO]: [voicechat] Disconnecting client coete10
+[07:05:56] [Server thread/INFO]: Named entity GuardEntity['Arnita'/18902, l='ServerLevel[world]', x=280.17, y=64.00, z=-408.94] died: Arnita was slain by Stevo
+[07:06:49] [Server thread/INFO]: xXSansXx20 lost connection: Disconnected
+[07:06:49] [Server thread/INFO]: xXSansXx20 left the game
+[07:06:49] [Server thread/INFO]: [voicechat] Disconnecting client xXSansXx20
+[07:14:42] [Server thread/INFO]: Stopping the server
+[07:14:42] [C2ME Storage #16/INFO]: Storage thread Thread[#121,C2ME Storage #16,5,main] stopped
+[07:14:42] [C2ME Storage #17/INFO]: Storage thread Thread[#122,C2ME Storage #17,5,main] stopped
+[07:14:42] [C2ME Storage #18/INFO]: Storage thread Thread[#123,C2ME Storage #18,5,main] stopped
+[07:14:42] [Server thread/INFO]: Stopping server
+[07:14:42] [Server thread/INFO]: Saving players
+[07:14:42] [Server thread/INFO]: Saving worlds
+[07:14:42] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[07:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (worldBackup): All chunks are saved
+[07:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:14:42] [C2ME Storage #3/INFO]: Storage thread Thread[#89,C2ME Storage #3,5,main] stopped
+[07:14:42] [C2ME Storage #2/INFO]: Storage thread Thread[#88,C2ME Storage #2,5,main] stopped
+[07:14:43] [C2ME Storage #1/INFO]: Storage thread Thread[#87,C2ME Storage #1,5,main] stopped
+[07:14:43] [C2ME Storage #6/INFO]: Storage thread Thread[#92,C2ME Storage #6,5,main] stopped
+[07:14:43] [C2ME Storage #5/INFO]: Storage thread Thread[#91,C2ME Storage #5,5,main] stopped
+[07:14:43] [C2ME Storage #4/INFO]: Storage thread Thread[#90,C2ME Storage #4,5,main] stopped
+[07:14:43] [C2ME Storage #9/INFO]: Storage thread Thread[#95,C2ME Storage #9,5,main] stopped
+[07:14:43] [C2ME Storage #8/INFO]: Storage thread Thread[#94,C2ME Storage #8,5,main] stopped
+[07:14:43] [C2ME Storage #7/INFO]: Storage thread Thread[#93,C2ME Storage #7,5,main] stopped
+[07:14:43] [C2ME Storage #12/INFO]: Storage thread Thread[#99,C2ME Storage #12,5,main] stopped
+[07:14:43] [C2ME Storage #11/INFO]: Storage thread Thread[#97,C2ME Storage #11,5,main] stopped
+[07:14:43] [C2ME Storage #10/INFO]: Storage thread Thread[#96,C2ME Storage #10,5,main] stopped
+[07:14:43] [Server thread/INFO]: Unloading server configs...
+[07:14:43] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
+[07:14:43] [Server thread/INFO]: Finished unloading server configs
+[07:14:43] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[07:14:43] [Server thread/INFO]: Dispatching unloading event for config iteminteractions-server.toml
+[07:14:43] [Server thread/INFO]: Dispatching unloading event for config pickupnotifier/pickupnotifier-server.toml
